@@ -1,5 +1,10 @@
-# hello-world
+# table-sortablejs-wrapper
 
-## DEMO
+## table
 
-<Demo c="hello-world/index"/>
+<Demo c="sortablejs-wrapper/index"/>
+
+
+## dialog
+
+<Demo c="sortablejs-wrapper-dialog/index"/>
